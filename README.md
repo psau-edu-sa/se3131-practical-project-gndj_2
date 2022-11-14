@@ -11,8 +11,9 @@
 
 - The traffic light at lane 4 can be green and the rest are red.
 
-- The traffic light at lane 5 allows cars to return when it is not conflict with another traffic light.
-![IMG_2884](https://user-images.githubusercontent.com/118053816/201663139-214a9206-6ab1-4d71-8f61-b665b56b66cd.png)
+- The traffic light at lane 5 allows cars to return when it is not 
+![IMG_2884](https://user-images.githubusercontent.com/118053816/201666200-17eef1dc-65ed-4ddb-9149-9b53de8ac21c.jpeg)
+
 ### the file with our explnation :
 ![IMG_0307](https://user-images.githubusercontent.com/118053816/201664109-da4dddfe-85e8-4d78-bf48-0bbdba16776f.jpeg)
 ### the solution using petri nets : 
