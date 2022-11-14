@@ -11,7 +11,7 @@
 
 - The traffic light at lane 4 can be green and the rest are red.
 
-- The traffic light at lane 5 allows cars to return when it is not 
+- The traffic light at lane 5 allows cars to return when it is not .
 ![IMG_2884](https://user-images.githubusercontent.com/118053816/201666200-17eef1dc-65ed-4ddb-9149-9b53de8ac21c.jpeg)
 
 ### the file with our explnation :
